@@ -1,4 +1,6 @@
 .*
+.bin/
+temp/
 
 # Compiled Object files
 *.slo
