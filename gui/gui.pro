@@ -58,7 +58,7 @@ HEADERS += ../monica/src/debug.h
 HEADERS += ../monica/src/conversion.h
 HEADERS += ../monica/src/configuration.h
 
-SOURCES += ../monica/src/main.cpp
+SOURCES += ../monica/src/monica-json-main.cpp
 SOURCES += ../monica/src/soilcolumn.cpp
 SOURCES += ../monica/src/soiltransport.cpp
 SOURCES += ../monica/src/soiltemperature.cpp
